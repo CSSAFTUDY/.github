@@ -1,12 +1,28 @@
-## Hi there 👋
+# CS-Study
 
-<!--
+## 스티디원
 
-**Here are some ideas to get you started:**
+-   김태수
+-   박상욱
+-   박세건
+-   박진우
+-   윤병서
+-   이동열
+-   정다운
+-   홍창기
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 스터디 진행 방식
+
+-   8명이서 해당 주에 공부할 주제 선택
+-   일주일 간 해당 주제에 대해 공부를 진행
+-   주제와 관련된 면접 질문 또는 토론 주제를 인 당 2개씩 issue에 등록 (발표 이틀 전까지)
+-   2팀으로 나누어서 issue에 대한 발표 및 토론을 진행 (해당 주 마지막 날 진행)
+-   진행한 내용을 정리하여 Github Readme에 정리
+
+## 데이터베이스
+
+-   1주차
+
+## 네트워크
+
+## 운영체제
